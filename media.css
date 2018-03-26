@@ -1,0 +1,643 @@
+@media screen and (max-width: 1358px) {
+
+	/*Nav Bar*/
+
+
+#navLogo {
+	margin-right: 47px;
+    margin-left: 18px;
+}
+
+
+@media screen and (max-width: 1274px){
+.button {
+	margin-left: 45px;
+}
+
+.sliderTexts {
+    color: #000000;
+    width: 256px;
+    padding-bottom: 1px;
+}
+
+p {
+	font-size: 14px;
+}
+
+.bioText {
+	width: 77%;
+}
+
+#navLogo {
+	margin-right: 5px;
+    margin-left: 18px;
+}
+
+#fence {
+    height: 821px;
+}
+
+#submit {
+    margin-left: 89px;
+    margin-top: 31px;
+    margin-bottom: 67px;
+}
+
+
+
+#navbar {
+	width: 94.5%;
+}
+
+
+
+
+#backgroundZoom {
+	margin-right: 4px;
+}
+
+#bioDiv {
+	margin-right: 4px;
+}
+
+#sliderDiv {
+	margin-right: 4px;
+}
+
+#map {
+	margin-right: 4px;
+}
+
+#form {
+	margin-right: 4px;
+}
+
+#fences {
+	margin-right: 4px;
+}
+
+#footer {
+	margin-right: 4px;
+}
+
+#bottomFoot {
+	margin-right: 4px;
+}
+
+.slideBackground {
+	margin-left: 326px;
+}
+
+.sliderText {
+	margin-left: 318px;
+}
+
+#fence {
+    height: 706px;
+}
+
+#submit {
+    margin-left: 89px;
+    margin-top: 31px;
+    margin-bottom: 185px;
+}
+
+.slideImg {
+    padding-left: 33px;
+}
+
+#formDescript {
+	width: 36%;
+}
+
+#innerBottom {
+	margin-right: 93px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1119px) {
+.button {
+    margin-left: 23px;
+}
+
+#navLogo {
+    margin-right: -33px;
+    margin-left: 0px;
+}
+
+#navbar {
+	margin-left: 16px;
+}
+
+.slideImg {
+    padding-left: 23px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.bioText {
+    width: 59%;
+
+}
+
+#bio {
+	    margin-top: -534px;
+}
+
+#bioPic {
+	margin-top: 112px;
+}
+h1 {
+	font-size: 34px;
+}
+
+.slideBackground {
+    margin-left: 303px;
+}
+
+#submit {
+	margin-bottom: 347px;
+}
+
+#fence {
+	height: 541px;
+}
+
+#innerBottom {
+	margin-right: 58px;
+}
+
+.sliderTexts {
+	padding-bottom: 2px;
+}
+
+#backgroundZoom {
+	margin-left: 16px;
+	margin-right: 8px;
+}
+
+#bioDiv {
+	margin-left: 16px;
+	margin-right: 8px;
+}
+
+#sliderDiv {
+	margin-left: 16px;
+	margin-right: 8px;
+}
+
+#map {
+	margin-left: 16px;
+	margin-right: 8px;
+}
+
+#form {
+	margin-left: 16px;
+	margin-right: 8px;
+}
+
+#fences {
+	margin-right: 8px;
+	margin-left: 695px;
+    margin-top: -986px;
+}
+
+#fence {
+    height: 669px;
+}
+
+#footer {
+	margin-left: 16px;
+	margin-right: 8px;
+}
+
+#bottomFoot {
+	margin-left: 16px;
+	margin-right: 8px;
+}
+
+#formDescript {
+    width: 62%;
+}
+
+.navLink{
+	display: none;
+	overflow: hidden;
+}
+
+.navPic {
+	display: none;
+	overflow: hidden;
+}
+
+#navButton {
+	display: none;
+	overflow: hidden;
+}
+
+.accordion {
+    transition: 0.4s;
+    display: inline;
+    float: right;
+    padding-right: 90px;
+        margin-top: -35px;
+    padding: 7px;
+    background: white;
+    margin-right: 68px;
+}
+
+
+
+.line {
+    background: black;
+    height: 1px;
+    width: 40px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc; 
+}
+
+.navDropImage{
+	float: left;
+    padding-top: 3px;
+}
+
+.navDropText {
+	margin-left: 43px;
+    margin-top: 3px;
+}
+
+.button {
+    margin-left: 0px;
+    margin-top: 9px;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 1075px) {
+.slideText{
+margin-left: 199px;
+}
+
+.sliderTexts {
+    padding-bottom: 3px;
+    width: 75%;
+}
+
+.slideBackground {
+    margin-left: 280px;
+}
+
+.sliderText {
+    margin-left: 280px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+#brent {
+    width: 62%;
+}
+
+.bioText {
+    width: 50%;
+    line-height: 20px;
+}
+
+
+#fences {
+    margin-right: 8px;
+    margin-left: 576px;
+    margin-top: -986px;
+}
+
+#submit {
+	margin-bottom: 344px
+}
+
+#logoFoot {
+	padding-right: 35px;
+}
+
+#contact {
+	width: 205px;
+}
+
+#navbar {
+    width: 94.2%;
+}
+
+#bioPic {
+	margin-left: 40px;
+}
+
+#bio {
+	padding-left: 714px;
+	margin-top: -501px;
+}
+
+p {
+    font-size: 10px;
+}
+
+#subject {
+	width: 431px;
+}
+
+}
+
+@media screen and (max-width: 958px) {
+#fences {
+	margin-left: 534px;
+}
+
+.slideBackground {
+	width: 53%;
+	margin-left: 199px;
+}
+
+.slideImg {
+    padding-left: 14px;
+}
+
+#bio {
+    padding-left: 87px;
+    margin-top: 0px;
+    width: 83%;
+    text-align: center;
+}
+
+
+
+.bioText {
+	width: 100%;
+	font-size: 16px;
+}
+
+#brent {
+    width: 100%;
+}
+
+#bioPic {
+    margin-left: 128px;
+}
+
+#innerBottom {
+    margin-right: 42px;
+}
+#contact {
+    width: 185px;
+}
+
+#subject {
+    width: 400px;
+}
+
+#navbar {
+    width: 93.6%;
+}
+
+#formDescript {
+    width: 44%;
+}
+
+#logoFoot {
+    padding-right: 7px;
+}
+
+.sliderText {
+    margin-left: 231px;
+}
+
+}
+
+@media screen and (max-width: 958px) {
+#bioPic {
+    margin-left: 92px;
+}
+
+.slideBackground {
+    width: 58%;
+    margin-left: 161px;
+}
+
+.sliderText {
+    margin-left: 214px;
+}
+
+#contact {
+    width: 166px;
+}
+
+#subject {
+    width: 360px;
+}
+
+#fences {
+    margin-left: 465px;
+}
+
+#formDescript {
+    width: 44%;
+    margin-left: 34px;
+}
+
+#contactForm {
+    width: 60%;
+    margin-left: -61px;
+}
+
+#logoFoot {
+    padding-right: 0px;
+    padding-left: 30px;
+}
+
+#learnButton {
+    margin-top: 29px;
+    margin-left: -25px;
+}
+
+#navbar {
+    width: 92.6%;
+}
+
+#innerBottom {
+	margin-left: 30px;
+}
+
+.bioText {
+    width: 107%;
+    font-size: 13px;
+}
+
+}
+
+@media screen and (max-width: 780px) {
+
+#bioPic {
+    margin-left: 65px;
+    width: 82%;
+}
+
+#bio{
+	padding-left: 61px;
+}
+
+#learnButton {
+    margin-top: 29px;
+    margin-left: 0px;
+}
+
+#formDescript {
+    width: 47%;
+    margin-left: 36px;
+}
+
+#contactForm {
+    width: 60%;
+    margin-left: -54px;
+}
+
+#fences {
+    margin-left: 412px;
+}
+
+#lname {
+	margin-left: 4px;
+}
+
+#contact {
+	margin-left: 4px;
+}
+
+#subject {
+    width: 341px;
+}
+
+.bioText {
+    width: 105%;
+    font-size: 16px;
+}
+
+#logoFoot {
+    padding-right: 0px;
+    padding-left: 15px;
+}
+
+#innerBottom {
+    margin-left: 15px;
+}
+
+#contact {
+    width: 147px;
+}
+
+#subject {
+    width: 297px;
+}
+
+.slideBackground {
+    width: 64%;
+    margin-left: 132px;
+}
+
+#navbar {
+    width: 91.8%;
+}
+
+#bio {
+    padding-left: 53px;
+}
+
+.sliderText {
+    margin-left: 194px;
+}
+}
+
+@media screen and (max-width: 715px) {
+.footDisplay {
+		padding-right: 51px;
+}
+
+.footerCol {
+    width: 13%;
+    padding-top: 33px;
+    padding-left: 17px;
+}
+
+#fences {
+    margin-left: 369px;
+}
+
+.bioText {
+    width: 91%;
+    font-size: 13px;
+}
+
+.slideBackground {
+    width: 71%;
+    margin-left: 113px;
+}
+
+.sliderText {
+    margin-left: 169px;
+}
+
+#bioPic {
+    margin-left: 50px;
+    width: 82%;
+}
+
+.bioText {
+    width: 98%;
+    font-size: 13px;
+}
+
+#navbar {
+    width: 90.5%;
+}
+
+#contactForm {
+    width: 70%;
+    margin-left: -81px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
